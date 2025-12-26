@@ -11,3 +11,13 @@ Language (Linguagem)
 - Links para outros textos
 - Imagens, sons e vídeos
 - Arquivo com a extensão `.html`
+
+## Comentários
+
+- Ignorar o texto no código
+
+```
+<!--
+ Comentário aqui
+-->
+```
