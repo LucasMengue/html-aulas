@@ -42,3 +42,19 @@ Language (Linguagem)
  Comentário aqui
 -->
 ```
+
+## Fluxo HTML
+
+- Block
+
+```
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non felis vitae massa sagittis sagittis. Vivamus id mauris laoreet, sollicitudin lectus id, sagittis metus.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non felis vitae massa sagittis sagittis. Vivamus id mauris laoreet, sollicitudin lectus id, sagittis metus.</p>
+```
+
+- Inline
+
+```
+<p>Lorem ipsum dolor sit amet, <a href="#">consectetur</a> adipiscing elit. Nunc non felis vitae massa sagittis sagittis. Vivamus id mauris laoreet, sollicitudin lectus id, sagittis metus.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non felis vitae massa <a href="#">sagittis</a> sagittis. Vivamus id mauris laoreet, sollicitudin lectus id, sagittis metus.</p>
+```
