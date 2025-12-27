@@ -58,3 +58,9 @@ Language (Linguagem)
 <p>Lorem ipsum dolor sit amet, <a href="#">consectetur</a> adipiscing elit. Nunc non felis vitae massa sagittis sagittis. Vivamus id mauris laoreet, sollicitudin lectus id, sagittis metus.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non felis vitae massa <a href="#">sagittis</a> sagittis. Vivamus id mauris laoreet, sollicitudin lectus id, sagittis metus.</p>
 ```
+
+## Aninhamento de tags
+
+```
+<p>Lorem ipsum dolor sit amet, <em>consectetur</em> adipiscing elit. Nunc non felis vitae massa <a href="#">sagittis</a> sagittis. Vivamus id mauris laoreet, <strong>sollicitudin</strong> lectus id, sagittis metus.</p>
+```
