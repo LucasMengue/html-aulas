@@ -64,3 +64,13 @@ Language (Linguagem)
 ```
 <p>Lorem ipsum dolor sit amet, <em>consectetur</em> adipiscing elit. Nunc non felis vitae massa <a href="#">sagittis</a> sagittis. Vivamus id mauris laoreet, <strong>sollicitudin</strong> lectus id, sagittis metus.</p>
 ```
+
+## Atributos HTML
+
+- Informações extras
+- Configurações
+
+```
+<img src="" alt="" />
+<a href="#">Link</a>
+```
