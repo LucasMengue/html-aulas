@@ -74,3 +74,37 @@ Language (Linguagem)
 <img src="" alt="" />
 <a href="#">Link</a>
 ```
+
+### ID
+
+- Atributo de identificação única
+
+```
+<div id="nome-1"></div>
+<div id="nome-2"></div>
+```
+
+### Class
+
+- Atributo de classificação, podendo conter em mais de uma tag
+
+```
+<div class="produto tenis">Tênis</div>
+<div class="produto camiseta">Camiseta</div>
+```
+
+### Data-
+
+- Atributo personalizado podendo ser utilizado no JS
+
+```
+<div data-qualquer-coisa="1234"></div>
+```
+
+### Style
+
+- Atributo de estilo CSS
+
+```
+<div style="color: blue;">Título</div>
+```
