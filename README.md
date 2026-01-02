@@ -217,3 +217,15 @@ Atributos
 ```
 <a href="https://rocketseat.com.br" target="_blank">Ver site</a>
 ```
+
+## Imagens
+
+- <img>
+- src
+- alt
+- width
+- height
+
+```
+<img src="https://source.unsplash.com/random" height="200" width="300" />
+```
